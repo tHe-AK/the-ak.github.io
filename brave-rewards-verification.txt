@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: the-ak.github.io
+Token: 9aab9a751295c50c0b448cbd4ae8d399236a31555952062a55c46ee96175fbaf
